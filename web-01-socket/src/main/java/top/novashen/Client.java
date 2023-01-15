@@ -12,7 +12,7 @@ public class Client {
         OutputStream os = null;
         Socket socket = null;
         //前置定义扩展作用域
-        //方便关闭
+        //方便关闭asd
         try {
             InetAddress addr = Inet4Address.getByName("127.0.0.1");
             int port=9999;
