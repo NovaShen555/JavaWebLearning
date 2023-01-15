@@ -11,7 +11,7 @@ public class Client {
     public static void main(String[] args) {
         OutputStream os = null;
         Socket socket = null;
-
+        //前置定义扩展作用域
         try {
             InetAddress addr = Inet4Address.getByName("127.0.0.1");
             int port=9999;
