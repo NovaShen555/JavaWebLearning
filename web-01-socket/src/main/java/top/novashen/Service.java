@@ -12,6 +12,7 @@ public class Service {
         InputStream is = null;
         ByteArrayOutputStream baos = null;
         //前置定义扩展作用域
+        //方便关闭
         try {
             serverSocket = new ServerSocket(9999);
             Socket socket = serverSocket.accept();
