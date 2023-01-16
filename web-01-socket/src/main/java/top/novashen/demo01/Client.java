@@ -1,4 +1,4 @@
-package top.novashen;
+package top.novashen.demo01;
 
 import java.io.IOException;
 import java.io.OutputStream;
