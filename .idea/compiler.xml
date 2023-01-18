@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-01-socket" />
+        <module name="web-02-servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />

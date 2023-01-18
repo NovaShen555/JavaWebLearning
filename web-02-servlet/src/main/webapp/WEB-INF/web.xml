@@ -1,0 +1,22 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+		http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+
+<!--注册servlet-->
+    <servlet>
+<!--        给的名字-->
+        <servlet-name>hello</servlet-name>
+<!--        具体的包名-->
+        <servlet-class>top.novashen.servlet.HelloServlet</servlet-class>
+    </servlet>
+
+<!--    应用servlet-->
+    <servlet-mapping>
+<!--        应用的名字，不懂有啥用-->
+        <servlet-name>hello</servlet-name>
+<!--        应用的路径-->
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    
+</web-app>
