@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="web-01-socket" />
         <module name="web-02-servlet" />
+        <module name="web-03-servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />
