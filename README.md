@@ -18,3 +18,7 @@
 解决了servlet第一个程序的bug
 成功进行了 访问
 
+### 2.13
+实现利用ServletContext进行servlet间的通信
+初步实现。。。
+
