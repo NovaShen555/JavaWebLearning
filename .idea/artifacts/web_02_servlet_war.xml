@@ -9,12 +9,6 @@
     </properties>
     <root id="archive" name="web-02-servlet.war">
       <element id="artifact" artifact-name="web-02-servlet:war exploded" />
-      <element id="javaee-facet-resources" facet="web-03-servlet/web/Web" />
-      <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="web-03-servlet" />
-        </element>
-      </element>
     </root>
   </artifact>
 </component>

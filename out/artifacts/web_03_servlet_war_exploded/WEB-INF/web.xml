@@ -6,6 +6,10 @@
          version="4.0"
          metadata-complete="true">
 
+    <context-param>
+        <param-name>name</param-name>
+        <param-value>value</param-value>
+    </context-param>
 
     <servlet>
         <servlet-name>servletContest</servlet-name>
@@ -14,6 +18,10 @@
     <servlet>
         <servlet-name>servletContestTest</servlet-name>
         <servlet-class>top.novashen.servlet.ServletContextTest</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>servletDispatcher</servlet-name>
+        <servlet-class>top.novashen.servlet.ServletDemo1</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -24,6 +32,28 @@
         <servlet-name>servletContestTest</servlet-name>
         <url-pattern>/test</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>servletDispatcher</servlet-name>
+        <url-pattern>/dispatcher</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>fileDownLoadServlet</servlet-name>
+        <servlet-class>top.novashen.servlet.FileDownLoadServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>fileDownLoadServlet</servlet-name>
+        <url-pattern>/download</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 </web-app>
