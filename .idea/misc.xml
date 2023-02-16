@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/web-02-servlet" />
     <file type="web" url="file://$PROJECT_DIR$/web-04-response" />
+    <file type="web" url="file://$PROJECT_DIR$/web-04-session" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

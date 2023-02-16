@@ -9,6 +9,7 @@
         <module name="web-02-servlet" />
         <module name="web-03-servlet" />
         <module name="web-01-socket" />
+        <module name="web-04-session" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">

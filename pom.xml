@@ -18,6 +18,7 @@
         <module>web-01-socket</module>
         <module>web-02-servlet</module>
         <module>web-03-servlet</module>
+        <module>web-04-session</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
