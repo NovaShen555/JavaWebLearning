@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="web-05-filter" />
         <module name="web-02-servlet" />
         <module name="web-03-servlet" />
         <module name="web-01-socket" />

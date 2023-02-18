@@ -8,5 +8,7 @@
     <file url="file://$PROJECT_DIR$/web-04-response/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-04-session/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-04-session/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-05-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-05-filter/src/main/resources" charset="UTF-8" />
   </component>
 </project>
