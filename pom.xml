@@ -20,6 +20,7 @@
         <module>web-03-servlet</module>
         <module>web-04-session</module>
         <module>web-05-filter</module>
+        <module>web-06-listener</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->

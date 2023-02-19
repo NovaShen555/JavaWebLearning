@@ -11,6 +11,7 @@
         <module name="web-03-servlet" />
         <module name="web-01-socket" />
         <module name="web-04-session" />
+        <module name="web-06-listener" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
