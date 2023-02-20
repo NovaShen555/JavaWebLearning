@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-05-filter" />
-        <module name="web-02-servlet" />
-        <module name="web-03-servlet" />
+        <module name="web-08-filterAndListener" />
         <module name="web-01-socket" />
         <module name="web-04-session" />
+        <module name="web-07-apply" />
         <module name="web-06-listener" />
+        <module name="web-02-servlet" />
+        <module name="web-03-servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">

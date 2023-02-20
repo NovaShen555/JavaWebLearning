@@ -7,6 +7,8 @@
     <file type="web" url="file://$PROJECT_DIR$/web-04-session" />
     <file type="web" url="file://$PROJECT_DIR$/web-05-filter" />
     <file type="web" url="file://$PROJECT_DIR$/web-06-listener" />
+    <file type="web" url="file://$PROJECT_DIR$/web-07-apply" />
+    <file type="web" url="file://$PROJECT_DIR$/web-08-filterAndListener" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

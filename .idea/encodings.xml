@@ -12,5 +12,9 @@
     <file url="file://$PROJECT_DIR$/web-05-filter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-06-listener/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-06-listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-07-apply/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-07-apply/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-08-filterAndListener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-08-filterAndListener/src/main/resources" charset="UTF-8" />
   </component>
 </project>

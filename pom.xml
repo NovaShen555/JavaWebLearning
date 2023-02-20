@@ -21,6 +21,8 @@
         <module>web-04-session</module>
         <module>web-05-filter</module>
         <module>web-06-listener</module>
+        <module>web-07-apply</module>
+        <module>web-08-filterAndListener</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
